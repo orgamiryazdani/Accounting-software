@@ -1,0 +1,15 @@
+C:\Users\amir\source\repos\Accounting software\Accounting software\bin\Debug\Accounting software.exe.config
+C:\Users\amir\source\repos\Accounting software\Accounting software\bin\Debug\Accounting software.exe
+C:\Users\amir\source\repos\Accounting software\Accounting software\bin\Debug\Accounting software.pdb
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.csproj.AssemblyReference.cache
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.csproj.SuggestedBindingRedirects.cache
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Form1.resources
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Properties.Resources.resources
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.csproj.GenerateResource.cache
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.csproj.CoreCompileInputs.cache
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.exe
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting software.pdb
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Form2.resources
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Form3.resources
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Form4.resources
+C:\Users\amir\source\repos\Accounting software\Accounting software\obj\Debug\Accounting_software.Form5.resources
